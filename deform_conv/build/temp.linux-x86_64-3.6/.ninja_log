@@ -1,0 +1,5 @@
+# ninja log v5
+0	26625	1665804389057811129	/home/nsml/vivit_dc/thirdparty/deform_conv/build/temp.linux-x86_64-3.6/src/deform_conv_cuda.o	b08b36bcb12ed407
+1	39979	1665804402410858791	/home/nsml/vivit_dc/thirdparty/deform_conv/build/temp.linux-x86_64-3.6/src/deform_conv_cuda_kernel.o	a1e11b0bdc5a6d9c
+0	22985	1665804425935942762	/home/nsml/vivit_dc/thirdparty/deform_conv/build/temp.linux-x86_64-3.6/src/deform_pool_cuda.o	346b306692a4ae67
+1	36046	1665804438993989372	/home/nsml/vivit_dc/thirdparty/deform_conv/build/temp.linux-x86_64-3.6/src/deform_pool_cuda_kernel.o	550021ea4fd113b5
